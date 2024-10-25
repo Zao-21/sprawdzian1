@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Podaj wiek");
         int age = scanner.nextInt();
         System.out.println("Witaj " + name + ". Za " + (18 - age) + " lata będę miał 18 lat!");
-//        na branchu 'twoje imię' w następnej linii wydrukuj pierwszą rzecz jaką chcesz robić po uzyskaniu pełnoletności
+
         System.out.println("Po wyplaceniu w banku chce kupic sobie nowe ciuchy");
 
     }
